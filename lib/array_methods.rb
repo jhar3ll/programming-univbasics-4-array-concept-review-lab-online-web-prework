@@ -5,3 +5,4 @@ end
 
 p find_element_index([2,3,4,5], 2)
 p find_element_index([2,3,4,5], 4)
+p find_element_index([6,5,4,3], 5)
