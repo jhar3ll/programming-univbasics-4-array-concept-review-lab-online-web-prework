@@ -20,7 +20,7 @@ p find_max_value([5,4,3,2,1,0,1,2,3,4,5])
 p find_max_value([500,4,1000,5,250])
   
   
-def find_mmin_value(array)
+def find_min_value(array)
   array_min = array.min
   return array_min
 end  
