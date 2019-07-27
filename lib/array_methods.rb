@@ -4,3 +4,4 @@ def find_element_index(array, value_to_find)
 end
 
 p array.index([2,3,4,5], 2)
+p array.index([2,3,4,5], 4)
