@@ -1,11 +1,7 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
-end
-
-def find_max_value(array)
-  # Add your solution here
-end
-
-def find_min_value(array)
-  # Add your solution here
-end
+  scale = [2,3,4,5]
+  
+ p scale.find_index (2)
+ p scale.find_index (4)
+    
+  end
